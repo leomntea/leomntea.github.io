@@ -2,14 +2,7 @@
 // 간단한 환영 메시지
 $welcomeMessage = "홈페이지에 방문해 주셔서 감사합니다!";
 ?>
-
-
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>간단한 홈페이지</title>
-</head>
 <body>
     <!-- 헤더 영역 -->
     <header>
