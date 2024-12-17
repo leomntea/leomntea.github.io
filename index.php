@@ -3,8 +3,8 @@
 $welcomeMessage = "홈페이지에 방문해 주셔서 감사합니다!";
 ?>
 
-<!DOCTYPE html>
-<html lang="ko">
+
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
